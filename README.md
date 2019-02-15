@@ -21,7 +21,7 @@
 
 
 
-另外也有其他基本线性代数教材也不错：
+另外也有其他几本线性代数教材也不错：
 
 - **圣经** Linear Algebra-hoffman :open_mouth:
 
