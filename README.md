@@ -1,7 +1,7 @@
 # MIT-Linear-Algebra-Learning-Materials
 这是我学习MIT18.06线性代数课所收集的学习材料
 
-目前已经看完了该课程，相关总结可看我的[博客](https://richardyu114.github.io/2019/02/14/Linear-Algebra-of-MIT/)
+目前已经看完了该课程，相关总结可看我的[博客](https://densecollections.top/posts/notesofLinearAlgebra/)
 
 # 如有侵权行为，请联系我第一时间删除
 
